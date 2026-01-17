@@ -12,7 +12,7 @@ Authors@R: c(person(given = "Felipe Antonio",
                         role = c("ctb"),
                         email = "fabiancorrea@msn.com",
                         comment = c(ORCID = "https://orcid.org/0000-0002-6193-1242")))
-Description: The package reads the eleven databases hosted in the vector-borne diseases module of the national epidemiological surveillance system of the federal health secretariat of Mexico
+Description: The package reads the eleven datasets hosted in the vector-borne diseases module of the national epidemiological surveillance system of the federal health secretariat of Mexico
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
